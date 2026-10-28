@@ -1,0 +1,4 @@
+window.APP_CONFIG = {
+    API_URL: "API_URL_EMPTY",
+    API_KEY: "API_KEY_EMPTY"
+}
